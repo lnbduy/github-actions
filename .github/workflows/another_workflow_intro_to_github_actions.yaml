@@ -1,4 +1,4 @@
-name: hs_workflow_intro_to_github_actions
+name: another_workflow_intro_to_github_actions
 on: [push]
 jobs:
   show-secret-phrase:
